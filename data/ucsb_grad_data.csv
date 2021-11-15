@@ -1,0 +1,121 @@
+ethnicity,level,year,domestic_enrollment,year_abbr
+American Indian / Alaskan,Graduate,2019-2020,19,'19
+American Indian / Alaskan,Graduate,2018-2019,20,'18
+American Indian / Alaskan,Graduate,2017-2018,22,'17
+American Indian / Alaskan,Graduate,2016-2017,27,'16
+American Indian / Alaskan,Graduate,2015-2016,24,'15
+American Indian / Alaskan,Graduate,2014-2015,27,'14
+American Indian / Alaskan,Graduate,2013-2014,12,'13
+American Indian / Alaskan,Graduate,2012-2013,15,'12
+American Indian / Alaskan,Graduate,2011-2012,14,'11
+American Indian / Alaskan,Graduate,2010-2011,13,'10
+American Indian / Alaskan,Graduate,2009-2010,13,'09
+American Indian / Alaskan,Graduate,2008-2009,13,'08
+Black / African American,Graduate,2019-2020,83,'19
+Black / African American,Graduate,2018-2019,75,'18
+Black / African American,Graduate,2017-2018,64,'17
+Black / African American,Graduate,2016-2017,55,'16
+Black / African American,Graduate,2015-2016,46,'15
+Black / African American,Graduate,2014-2015,41,'14
+Black / African American,Graduate,2013-2014,40,'13
+Black / African American,Graduate,2012-2013,46,'12
+Black / African American,Graduate,2011-2012,45,'11
+Black / African American,Graduate,2010-2011,53,'10
+Black / African American,Graduate,2009-2010,54,'09
+Black / African American,Graduate,2008-2009,51,'08
+Chicano,Graduate,2019-2020,189,'19
+Chicano,Graduate,2018-2019,167,'18
+Chicano,Graduate,2017-2018,147,'17
+Chicano,Graduate,2016-2017,151,'16
+Chicano,Graduate,2015-2016,147,'15
+Chicano,Graduate,2014-2015,125,'14
+Chicano,Graduate,2013-2014,131,'13
+Chicano,Graduate,2012-2013,144,'12
+Chicano,Graduate,2011-2012,153,'11
+Chicano,Graduate,2010-2011,142,'10
+Chicano,Graduate,2009-2010,138,'09
+Chicano,Graduate,2008-2009,137,'08
+Latino,Graduate,2019-2020,108,'19
+Latino,Graduate,2018-2019,102,'18
+Latino,Graduate,2017-2018,109,'17
+Latino,Graduate,2016-2017,103,'16
+Latino,Graduate,2015-2016,89,'15
+Latino,Graduate,2014-2015,94,'14
+Latino,Graduate,2013-2014,91,'13
+Latino,Graduate,2012-2013,98,'12
+Latino,Graduate,2011-2012,91,'11
+Latino,Graduate,2010-2011,96,'10
+Latino,Graduate,2009-2010,93,'09
+Latino,Graduate,2008-2009,92,'08
+Asian / Pacific Islander,Graduate,2019-2020,253,'19
+Asian / Pacific Islander,Graduate,2018-2019,228,'18
+Asian / Pacific Islander,Graduate,2017-2018,217,'17
+Asian / Pacific Islander,Graduate,2016-2017,226,'16
+Asian / Pacific Islander,Graduate,2015-2016,218,'15
+Asian / Pacific Islander,Graduate,2014-2015,206,'14
+Asian / Pacific Islander,Graduate,2013-2014,172,'13
+Asian / Pacific Islander,Graduate,2012-2013,188,'12
+Asian / Pacific Islander,Graduate,2011-2012,197,'11
+Asian / Pacific Islander,Graduate,2010-2011,193,'10
+Asian / Pacific Islander,Graduate,2009-2010,209,'09
+Asian / Pacific Islander,Graduate,2008-2009,204,'08
+Filipino,Graduate,2019-2020,29,'19
+Filipino,Graduate,2018-2019,24,'18
+Filipino,Graduate,2017-2018,31,'17
+Filipino,Graduate,2016-2017,26,'16
+Filipino,Graduate,2015-2016,30,'15
+Filipino,Graduate,2014-2015,26,'14
+Filipino,Graduate,2013-2014,25,'13
+Filipino,Graduate,2012-2013,22,'12
+Filipino,Graduate,2011-2012,28,'11
+Filipino,Graduate,2010-2011,21,'10
+Filipino,Graduate,2009-2010,17,'09
+Filipino,Graduate,2008-2009,15,'08
+E. Indian / Pakistani,Graduate,2019-2020,54,'19
+E. Indian / Pakistani,Graduate,2018-2019,52,'18
+E. Indian / Pakistani,Graduate,2017-2018,46,'17
+E. Indian / Pakistani,Graduate,2016-2017,41,'16
+E. Indian / Pakistani,Graduate,2015-2016,32,'15
+E. Indian / Pakistani,Graduate,2014-2015,38,'14
+E. Indian / Pakistani,Graduate,2013-2014,28,'13
+E. Indian / Pakistani,Graduate,2012-2013,29,'12
+E. Indian / Pakistani,Graduate,2011-2012,39,'11
+E. Indian / Pakistani,Graduate,2010-2011,43,'10
+E. Indian / Pakistani,Graduate,2009-2010,39,'09
+E. Indian / Pakistani,Graduate,2008-2009,35,'08
+Other,Graduate,2019-2020,2,'19
+Other,Graduate,2018-2019,2,'18
+Other,Graduate,2017-2018,6,'17
+Other,Graduate,2016-2017,11,'16
+Other,Graduate,2015-2016,16,'15
+Other,Graduate,2014-2015,29,'14
+Other,Graduate,2013-2014,45,'13
+Other,Graduate,2012-2013,64,'12
+Other,Graduate,2011-2012,93,'11
+Other,Graduate,2010-2011,102,'10
+Other,Graduate,2009-2010,111,'09
+Other,Graduate,2008-2009,112,'08
+White,Graduate,2019-2020,1234,'19
+White,Graduate,2018-2019,1281,'18
+White,Graduate,2017-2018,1308,'17
+White,Graduate,2016-2017,1329,'16
+White,Graduate,2015-2016,1403,'15
+White,Graduate,2014-2015,1444,'14
+White,Graduate,2013-2014,1400,'13
+White,Graduate,2012-2013,1420,'12
+White,Graduate,2011-2012,1436,'11
+White,Graduate,2010-2011,1433,'10
+White,Graduate,2009-2010,1405,'09
+White,Graduate,2008-2009,1323,'08
+Unknown,Graduate,2019-2020,80,'19
+Unknown,Graduate,2018-2019,65,'18
+Unknown,Graduate,2017-2018,91,'17
+Unknown,Graduate,2016-2017,82,'16
+Unknown,Graduate,2015-2016,187,'15
+Unknown,Graduate,2014-2015,160,'14
+Unknown,Graduate,2013-2014,322,'13
+Unknown,Graduate,2012-2013,316,'12
+Unknown,Graduate,2011-2012,378,'11
+Unknown,Graduate,2010-2011,382,'10
+Unknown,Graduate,2009-2010,438,'09
+Unknown,Graduate,2008-2009,444,'08
