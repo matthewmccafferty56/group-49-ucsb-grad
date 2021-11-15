@@ -18,6 +18,11 @@ ucsb_grad <- read_csv(here("data", "ucsb_grad_data.csv"))
 ```
 ```{r}
 ggplot(data = ucsb_grad, aes(x = year, y = domestic_enrollment, color = ethnicity))+
-  geom_col(position = "fill")
+  geom_col(position = "fill")+
+  labs(x = "Year",
+       y = "Domestic enrollment (%)",
+       title = "Ethnic makeup of UCSB domestic enrollment by year (2008-2019)")+
+  theme_minimal()
 ```
 
+**Figure 1:** The ethnic composition of the domestic enrollment at the University of California Santa Barbara (UCSB) show by percentages per year from 2008 to 2012. 
