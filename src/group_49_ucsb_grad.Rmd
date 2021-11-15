@@ -1,6 +1,6 @@
 ---
-title: "group_49_ucsb_grad"
-author: "Matthew McCafferty"
+title: "Group 49 UCSB domestic grad enrollment"
+author: "Matthew McCafferty and Anna Zauner"
 date: "11/14/2021"
 output: html_document
 ---
@@ -16,3 +16,8 @@ library(here)
 ```{r}
 ucsb_grad <- read_csv(here("data", "ucsb_grad_data.csv"))
 ```
+```{r}
+ggplot(data = ucsb_grad, aes(x = year, y = domestic_enrollment, color = ethnicity))+
+  geom_col()
+```
+
